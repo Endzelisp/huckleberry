@@ -1,5 +1,12 @@
 # Huckleberry Agency Website
 
+## Note
+This the first practice of the Josh W Comeau [CSS for Javascript developers](https://css-for-js.dev/) course.
+The original repository belongs to its author, Josh W Comeau and it is part of a paid course. I cloned the repo for educational
+purposes following the course instructions.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 In this workshop, you'll build a minimal landing page for an agency.
 
 This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absolute positioning, no media queries. It relies heavily on padding, margin, and border, as well as some of the tricks we learned in Module 1.
